@@ -1,9 +1,10 @@
 # ``MASS (Man for All SeasonS)``
 ### The Deep Learning RE classification model in Python
 
-Example code and data for paper [Large-scale Exploration of Neural Relation Classification Architectures]() (EMNLP 2018) by Hoang-Quynh Le<sup>1</sup>, Duy-Cat Can<sup>1</sup>, Sinh T. Vu<sup>1</sup>, Thanh Hai Dang<sup>1,*</sup>, Mohammad Taher Pilehvar<sup>2</sup> and Nigel Collier<sup>2</sup>.
+Example code and data for paper [Large-scale Exploration of Neural Relation Classification Architectures]() (EMNLP 2018).
 
 Developed by aidante@<sup>1</sup>UET, VNU Hanoi VietNam, in a colaboration with Language Technology Lab@<sup>2</sup>Cambridge University, UK.
+(Contact: hai.dang@vnu.edu.vn)
 
 MASS, version ``1.0``, is a program that was developed with 3 main functions:
 
