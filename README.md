@@ -3,7 +3,7 @@
 
 Example code and data for paper [Large-scale Exploration of Neural Relation Classification Architectures]() (EMNLP 2018).
 
-Developed by aidante group@<sup>1</sup>UET, VNU Hanoi VietNam, when collaborating with Language Technology Lab@<sup>2</sup>Cambridge University, UK.
+Developed by AIDANTE group@<sup>1</sup>VNU University of Engineering and Technology (UET), Việt Nam National University, Hà Nội, when collaborating with Language Technology Lab@<sup>2</sup>Cambridge University, UK.
 (Contact: hai.dang@vnu.edu.vn)
 
 MASS, version ``1.0``, is a program that was developed with 3 main functions:
